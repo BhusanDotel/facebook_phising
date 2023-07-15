@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948188686144",
+    "project_id": "bhusandatabase",
+    "storage_bucket": "bhusandatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948188686144:android:416d98d35c160713633ca5",
+        "android_client_info": {
+          "package_name": "com.example.facebook_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948188686144-m8at1sp4r96a4h5n10cmd5uvstdpidn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKNPHc0ev_CgAZGCnh9J521Go6aS-dKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948188686144-m8at1sp4r96a4h5n10cmd5uvstdpidn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
